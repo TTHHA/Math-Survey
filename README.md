@@ -11,4 +11,6 @@ This repository is a reading list on Mathematical Reasoning, including datasets,
 
 ## Models
 
+https://huggingface.co/collections/5CD-AI/math-instruction-datasets-660801f244a011983be58fe0
+
 ## Methods
