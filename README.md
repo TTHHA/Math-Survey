@@ -16,7 +16,6 @@ This repository is a reading list on Mathematical Reasoning, including datasets,
 - **Measuring Mathematical Problem Solving With the MATH Dataset**, NeurIPS 2021 [[paper](https://arxiv.org/pdf/2103.03874)] [[code](https://github.com/hendrycks/math/)] [[dataset](https://huggingface.co/datasets/hendrycks/competition_math)]
 - **** [[paper]()] [[code]()] [[dataset]()]
 
-  
 ### Low Resource 
 - **Analyzing Korean Math Word Problem Data Classification Difficulty Level Using the KoEPT Model**, Koreascience [[paper](https://koreascience.kr/article/JAKO202225042957130.pdf)]
 - **Synthetic Data Generator for Solving Korean Arithmetic Word Problem**, MDPI [[paper](https://www.mdpi.com/2227-7390/10/19/3525)] [[code](https://github.com/kkkkkkkm/Korean-MWP)]
@@ -29,6 +28,25 @@ This repository is a reading list on Mathematical Reasoning, including datasets,
 - **LANGUAGE MODELS ARE MULTILINGUAL CHAIN-OF-THOUGHT REASONERS** [[paper](https://arxiv.org/pdf/2210.03057v1)] [[code](https://github.com/google-research/url-nlp/tree/main/mgsm)] 
   + The 10 languages are: Spanish, French, German, Russian, Chinese, Japanese, Thai, Swahili, Bengali, Telugu.
 ## Models
+### Combining Tool
+- **NuminaMath 7B TIR** [[paper](https://huggingface.co/blog/winning-aimo-progress-prize)] [[code](https://huggingface.co/AI-MO)]
+- **MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning** [[paper](https://arxiv.org/pdf/2405.07551)]
+- **** [[paper]()] [[code]()] [[dataset]()]
+### COT
+- **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**, ICLR 2024  [[paper](https://arxiv.org/pdf/2309.12284)] [[code](https://github.com/meta-math/MetaMath)] [[page](https://meta-math.github.io/)]
+- **Orca-Math: Unlocking the Potential of SLMs in Grade School Math**, Microsoft [[paper](https://arxiv.org/pdf/2402.14830)] [[summary](https://github.com/saultaut/Math-AI-Papers/blob/main/orca-math.md)]
+- **🦣 MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning**, ICLR 2024 [[paper](https://arxiv.org/pdf/2309.05653.pdf)] [[code](https://tiger-ai-lab.github.io/MAmmoTH/)]
+- **🦣 MAmmoTH2: Scaling Instructions from the Web** [[paper](https://arxiv.org/abs/2405.03548)] [[code](https://github.com/TIGER-AI-Lab/MAmmoTH2)] [[page](https://tiger-ai-lab.github.io/MAmmoTH2/)]
+- **MathChat: Benchmarking Mathematical Reasoning and Instruction Following in Multi-Turn Interactions** [[paper](https://arxiv.org/pdf/2405.19444)] [[code](https://github.com/Zhenwen-NLP/MathChat)]
+- **** [[paper]()] [[code]()] [[dataset]()]
+- **** [[paper]()] [[code]()] [[dataset]()]
+- **** [[paper]()] [[code]()] [[dataset]()]
+### POT
+- **** [[paper]()] [[code]()] [[dataset]()]
+- **** [[paper]()] [[code]()] [[dataset]()]
+### COT + POT
+- **** [[paper]()] [[code]()] [[dataset]()]
+- **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct** [[paper](https://arxiv.org/pdf/2308.09583)] [[code](https://github.com/nlpxucan/WizardLM)] [[WizardLM2](https://wizardlm.github.io/WizardLM2/)]
 
 
 ## Methods
