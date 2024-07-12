@@ -9,6 +9,8 @@ This repository is a reading list on Mathematical Reasoning, including datasets,
 - [🔍 Methods](#Methods)
 
 ## Benchmarks
+### Vietnamese
+- **Translate Dataset** [[dataset](https://huggingface.co/collections/5CD-AI/math-instruction-datasets-660801f244a011983be58fe0)]
 ### English & Chinese
 - **Training Verifiers to Solve Math Word Problems**, GSM8K [[paper](https://arxiv.org/pdf/2110.14168)] [[code](https://github.com/openai/grade-school-math)] [[dataset](https://huggingface.co/datasets/openai/gsm8k)]
 - **Measuring Mathematical Problem Solving With the MATH Dataset**, NeurIPS 2021 [[paper](https://arxiv.org/pdf/2103.03874)] [[code](https://github.com/hendrycks/math/)] [[dataset](https://huggingface.co/datasets/hendrycks/competition_math)]
@@ -28,6 +30,5 @@ This repository is a reading list on Mathematical Reasoning, including datasets,
   + The 10 languages are: Spanish, French, German, Russian, Chinese, Japanese, Thai, Swahili, Bengali, Telugu.
 ## Models
 
-https://huggingface.co/collections/5CD-AI/math-instruction-datasets-660801f244a011983be58fe0
 
 ## Methods
