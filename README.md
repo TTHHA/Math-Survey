@@ -38,8 +38,8 @@ This repository is a reading list on Mathematical Reasoning, including datasets,
 - **🦣 MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning**, ICLR 2024 [[paper](https://arxiv.org/pdf/2309.05653.pdf)] [[code](https://tiger-ai-lab.github.io/MAmmoTH/)]
 - **🦣 MAmmoTH2: Scaling Instructions from the Web** [[paper](https://arxiv.org/abs/2405.03548)] [[code](https://github.com/TIGER-AI-Lab/MAmmoTH2)] [[page](https://tiger-ai-lab.github.io/MAmmoTH2/)]
 - **MathChat: Benchmarking Mathematical Reasoning and Instruction Following in Multi-Turn Interactions** [[paper](https://arxiv.org/pdf/2405.19444)] [[code](https://github.com/Zhenwen-NLP/MathChat)]
-- **** [[paper]()] [[code]()] [[dataset]()]
-- **** [[paper]()] [[code]()] [[dataset]()]
+- **LLEMMA: AN OPEN LANGUAGE MODEL FOR MATHEMATICS** [[paper](https://arxiv.org/pdf/2310.10631)] [[code](https://github.com/EleutherAI/math-lm)]
+- **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models** [[paper](https://arxiv.org/pdf/2402.03300)] [[code](https://github.com/deepseek-ai/DeepSeek-Math)]
 - **** [[paper]()] [[code]()] [[dataset]()]
 ### POT
 - **** [[paper]()] [[code]()] [[dataset]()]
