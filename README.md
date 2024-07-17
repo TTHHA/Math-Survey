@@ -50,3 +50,8 @@ This repository is a reading list on Mathematical Reasoning, including datasets,
 
 
 ## Methods
+
+## Curations, collections and surveys
+- [GitHub: AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)
+- [GitHub: Awesome LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math)
+- [GitHub: Resources of deep learning for mathematical reasoning (DL4MATH).](https://github.com/lupantech/dl4math)
